@@ -1,0 +1,4 @@
+C:\Users\Sion\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBot\obj\Debug\net8.0\CybersecurityAwarenessBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sion\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBot\obj\Debug\net8.0\CybersecurityAwarenessBot.AssemblyInfoInputs.cache
+C:\Users\Sion\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBot\obj\Debug\net8.0\CybersecurityAwarenessBot.AssemblyInfo.cs
+C:\Users\Sion\source\repos\CybersecurityAwarenessBot\CybersecurityAwarenessBot\obj\Debug\net8.0\CybersecurityAwarenessBot.csproj.CoreCompileInputs.cache
